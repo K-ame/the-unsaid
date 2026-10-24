@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <rect x="96" y="196" width="8" height="150" rx="4" fill="#4493f8"/>
+  <text x="140" y="228" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Arial, sans-serif"
+        font-size="26" font-weight="600" letter-spacing="4" fill="#8b949e">AN ESSAY</text>
+  <text x="138" y="300" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Arial, sans-serif"
+        font-size="62" font-weight="700" letter-spacing="-1" fill="#e6edf3">The Three Things</text>
+  <text x="138" y="372" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Arial, sans-serif"
+        font-size="62" font-weight="700" letter-spacing="-1" fill="#e6edf3">You Never Tell Your AI</text>
+  <line x1="140" y1="410" x2="640" y2="410" stroke="#4493f8" stroke-width="3" opacity="0.6"/>
+  <text x="140" y="466" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Arial, sans-serif"
+        font-size="24" fill="#8b949e">what you want   ·   what not to touch   ·   whether it may act</text>
+</svg>
