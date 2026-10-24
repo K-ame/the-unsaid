@@ -203,7 +203,7 @@ So what do you do if you won't remember? Mine is to compress it to one line: **s
 
 That line is a memory aid, not a rulebook. It misses two cases: things that can be undone but are expensive (rerunning a three-hour training job), and money, privacy, and anything that goes out into the world — those deserve a question even when they're reversible.
 
-This piece is on its twelfth draft. Every one of the previous eleven was sent back, for different reasons each time: too much like a manual, too much like an essay, too much like me giving a speech, conclusions harder than the evidence. I've reworked it as many times as anyone would have.
+This piece itself went through more rewrites than I'd like to admit, each for a different reason: too much like a manual, too much like an essay, too much like me giving a speech, conclusions harder than the evidence. I've reworked it as many times as anyone would have.
 
 So the rest you'll have to walk into yourself. When you do, remember at least this one: if it can't be undone, stop first.
 
