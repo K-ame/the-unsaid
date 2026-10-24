@@ -52,9 +52,6 @@ The fix isn't hard: replace "what I want you to do" with "what counts as done."
 
 - Don't: clean up these files for me
 - Do: these files go into twelve folders by month; when two share a name, keep the newer one
-
-Or, in code:
-
 - Don't: optimize this function
 - Do: merge the four repeated file reads in this function into one; behavior stays the same
 
