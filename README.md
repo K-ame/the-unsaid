@@ -198,4 +198,4 @@ So the rest you'll have to walk into yourself. When you do, remember at least th
 
 ---
 
-*2026-10-25*
+*2026-10-25 · © K-ame · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
