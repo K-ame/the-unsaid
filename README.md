@@ -1,10 +1,19 @@
-# The Three Things You Never Tell Your AI
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="The Three Things You Never Tell Your AI" width="100%">
+  </picture>
+</p>
 
-**English** | [中文](docs/zh.md)
+<p align="center">
+  <a href="docs/zh.md"><img alt="中文" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Read-0969da?style=flat-square"></a>
+  <img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-3da639?style=flat-square">
+  <img alt="reading time: about 14 minutes" src="https://img.shields.io/badge/reading%20time-14%20min-lightgrey?style=flat-square">
+</p>
 
 > Whatever you leave out of an instruction, the AI fills in for you. Sometimes that saves you work. More often it costs you a rework. This is about the structure of what you say — not about tools, which go stale in months.
-
-**TL;DR** — Three things people assume the AI already knows, and never say: *what done looks like*, *what not to touch*, and *whether it may act now*. Miss the first and you rework. Miss the second and it "improves" things you wanted kept. Miss the third and something irreversible is already gone.
+>
+> **TL;DR** — Three things people assume the AI already knows, and never say: *what done looks like*, *what not to touch*, and *whether it may act now*. Miss the first and you rework. Miss the second and it "improves" things you wanted kept. Miss the third and something irreversible is already gone.
 
 <details>
 <summary>Contents</summary>

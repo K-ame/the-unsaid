@@ -1,8 +1,19 @@
-# The Three Things You Never Tell Your AI
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.svg">
+    <img src="../assets/banner-light.svg" alt="The Three Things You Never Tell Your AI" width="100%">
+  </picture>
+</p>
 
-[English](../README.md) | **中文**
+<p align="center">
+  <a href="../README.md"><img alt="English" src="https://img.shields.io/badge/English-Read-0969da?style=flat-square"></a>
+  <img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-3da639?style=flat-square">
+  <img alt="reading time: about 14 minutes" src="https://img.shields.io/badge/reading%20time-14%20min-lightgrey?style=flat-square">
+</p>
 
 > 这篇讲的是话本身的结构。跟 AI 一起干活的时候，你的话里缺了什么，它就会自己补一个——补对了你省事，补错了你返工。开头那件事它补对了；后面大部分内容，讲的是补错的时候怎么办。不涉及具体工具的用法，那些换个环境就得重写。
+>
+> **TL;DR** — **要什么、别碰什么、现在能不能动手**，这三样人以为对方知道，所以从来不说。第一样漏了，你返工；第二样漏了，它会把你想留的东西一起「优化」掉；第三样漏了，不能撤回的东西已经没了。
 
 <details>
 <summary>目录</summary>

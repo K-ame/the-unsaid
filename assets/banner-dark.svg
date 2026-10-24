@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="The Three Things You Never Tell Your AI">
+  <rect width="1280" height="300" fill="#0d1117"/>
+  <rect x="72" y="96" width="6" height="112" rx="3" fill="#4493f8"/>
+  <text x="108" y="128" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="26" font-weight="600" letter-spacing="3" fill="#8b949e">AN ESSAY</text>
+  <text x="106" y="182" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="52" font-weight="700" letter-spacing="-0.5" fill="#e6edf3">The Three Things</text>
+  <text x="106" y="238" font-family="ui-sans-serif, -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="52" font-weight="700" letter-spacing="-0.5" fill="#e6edf3">You Never Tell Your AI</text>
+  <line x1="108" y1="266" x2="588" y2="266" stroke="#4493f8" stroke-width="2" opacity="0.55"/>
+</svg>
