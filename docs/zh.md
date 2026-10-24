@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="../README.md"><img alt="ENGLISH" src="https://img.shields.io/badge/-ENGLISH-6e7781?style=for-the-badge"></a>
+  <img alt="中文" src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-0969da?style=for-the-badge">
+  <a href="../docs/ja.md"><img alt="日本語" src="https://img.shields.io/badge/-%E6%97%A5%E6%9C%AC%E8%AA%9E-6e7781?style=for-the-badge"></a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.svg">
     <img src="../assets/banner-light.svg" alt="The Three Things You Never Tell Your AI" width="100%">
@@ -6,7 +12,6 @@
 </p>
 
 <p align="center">
-  <a href="../README.md"><img alt="English" src="https://img.shields.io/badge/English-Read-0969da?style=flat-square"></a>
   <img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-3da639?style=flat-square">
   <img alt="reading time: about 14 minutes" src="https://img.shields.io/badge/reading%20time-14%20min-lightgrey?style=flat-square">
 </p>
