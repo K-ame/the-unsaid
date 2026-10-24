@@ -1,7 +1,7 @@
 <p align="center">
-  <img alt="ENGLISH" src="https://img.shields.io/badge/-ENGLISH-0969da?style=for-the-badge">
-  <a href="docs/zh.md"><img alt="中文" src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-6e7781?style=for-the-badge"></a>
-  <a href="docs/ja.md"><img alt="日本語" src="https://img.shields.io/badge/-%E6%97%A5%E6%9C%AC%E8%AA%9E-6e7781?style=for-the-badge"></a>
+  <img alt="ENGLISH" src="assets/lang/en-on.svg">
+  <a href="docs/zh.md"><img alt="中文" src="assets/lang/zh-off.svg"></a>
+  <a href="docs/ja.md"><img alt="日本語" src="assets/lang/ja-off.svg"></a>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-3da639?style=flat-square">
-  <img alt="reading time: about 14 minutes" src="https://img.shields.io/badge/reading%20time-14%20min-lightgrey?style=flat-square">
+  <img alt="license: CC BY 4.0" src="assets/lang/license.svg">
+  <img alt="reading time: about 14 minutes" src="assets/lang/reading.svg">
 </p>
 
 > Whatever you leave out of an instruction, the AI fills in for you. Sometimes that saves you work. More often it costs you a rework. This is about the structure of what you say — not about tools, which go stale in months.

@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="../README.md"><img alt="ENGLISH" src="https://img.shields.io/badge/-ENGLISH-6e7781?style=for-the-badge"></a>
-  <a href="../docs/zh.md"><img alt="中文" src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-6e7781?style=for-the-badge"></a>
-  <img alt="日本語" src="https://img.shields.io/badge/-%E6%97%A5%E6%9C%AC%E8%AA%9E-0969da?style=for-the-badge">
+  <a href="../README.md"><img alt="ENGLISH" src="../assets/lang/en-off.svg"></a>
+  <a href="zh.md"><img alt="中文" src="../assets/lang/zh-off.svg"></a>
+  <img alt="日本語" src="../assets/lang/ja-on.svg">
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-3da639?style=flat-square">
-  <img alt="reading time: about 14 minutes" src="https://img.shields.io/badge/reading%20time-14%20min-lightgrey?style=flat-square">
+  <img alt="license: CC BY 4.0" src="../assets/lang/license.svg">
+  <img alt="reading time: about 14 minutes" src="../assets/lang/reading.svg">
 </p>
 
 > 指示から省いた部分は、AIが勝手に埋める。それが助けになることもある。たいていは、手戻りになる。この文章は、あなたが渡す文の構造の話だ。道具の話ではない。道具は数か月で古くなる。

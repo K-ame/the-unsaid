@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="../README.md"><img alt="ENGLISH" src="https://img.shields.io/badge/-ENGLISH-6e7781?style=for-the-badge"></a>
-  <img alt="中文" src="https://img.shields.io/badge/-%E4%B8%AD%E6%96%87-0969da?style=for-the-badge">
-  <a href="../docs/ja.md"><img alt="日本語" src="https://img.shields.io/badge/-%E6%97%A5%E6%9C%AC%E8%AA%9E-6e7781?style=for-the-badge"></a>
+  <a href="../README.md"><img alt="ENGLISH" src="../assets/lang/en-off.svg"></a>
+  <img alt="中文" src="../assets/lang/zh-on.svg">
+  <a href="ja.md"><img alt="日本語" src="../assets/lang/ja-off.svg"></a>
 </p>
 
 <p align="center">
@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <img alt="license: CC BY 4.0" src="https://img.shields.io/badge/license-CC%20BY%204.0-3da639?style=flat-square">
-  <img alt="reading time: about 14 minutes" src="https://img.shields.io/badge/reading%20time-14%20min-lightgrey?style=flat-square">
+  <img alt="license: CC BY 4.0" src="../assets/lang/license.svg">
+  <img alt="reading time: about 14 minutes" src="../assets/lang/reading.svg">
 </p>
 
 > 这篇讲的是话本身的结构。跟 AI 一起干活的时候，你的话里缺了什么，它就会自己补一个——补对了你省事，补错了你返工。开头那件事它补对了；后面大部分内容，讲的是补错的时候怎么办。不涉及具体工具的用法，那些换个环境就得重写。
@@ -34,6 +34,7 @@
 
 </details>
 
+---
 
 前一阵我让 AI 把一个旧项目的文件夹删掉。放了两个月没动，我不想再管了。
 
