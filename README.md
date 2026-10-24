@@ -202,6 +202,8 @@ This piece itself — the version you're reading is the twelfth draft. Every one
 
 So the rest you'll have to walk into yourself. When you do, remember at least this one: if it can't be undone, stop first.
 
+*Found a case where this was wrong? [Open an issue](https://github.com/K-ame/the-unsaid/issues/new) — the claims here are meant to be checked.*
+
 ---
 
 *2026-10-25 · © K-ame · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*

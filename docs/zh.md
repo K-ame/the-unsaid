@@ -201,6 +201,8 @@
 
 所以剩下的得你自己撞一遍才作数。撞的时候，至少记住这一条——不能撤回的事，先停一下。
 
+*觉得哪条不对？[开个 issue](https://github.com/K-ame/the-unsaid/issues/new) —— 这里的判断是拿来被检验的。*
+
 ---
 
 *2026-10-25 · © K-ame · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
