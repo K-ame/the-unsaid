@@ -27,7 +27,7 @@
 - [What you want: a sentence that can be checked](#what-you-want-a-sentence-that-can-be-checked)
 - [What not to touch: blocking, and preserving](#what-not-to-touch-blocking-and-preserving)
 - [Whether it may act: the decision, and the method](#whether-it-may-act-the-decision-and-the-method)
-- [When you say it matters more than what you say](#when-you-say-it-matters-more-than-what-you-say)
+- [Timing matters more than wording](#timing-matters-more-than-wording)
 - [One thing outside the scope](#one-thing-outside-the-scope)
 - [It says it's done. How do you know?](#it-says-its-done-how-do-you-know)
 - [Last](#last)
@@ -91,7 +91,7 @@ One instruction each shows the difference:
 
 > Only the last two paragraphs. The middle one is what I like — leave it. *(preserving)*
 
-What happens when you skip the second one, I've hit many times. You ask for the last paragraph only. It comes back with the last paragraph changed — and, since it was in there anyway, the punctuation normalized to half-width throughout, a few "the"s trimmed, the sentences smoothed a little. All correct edits. And the pause you wanted is gone.
+What happens when you skip the second one, I've hit many times. You ask for the last paragraph only. It comes back with the last paragraph changed — and, since it was in there anyway, the straight quotes curled into typographic ones, the Oxford commas unified, a few "very"s and "really"s trimmed, the sentences smoothed a little. All correct edits. And the pause you wanted is gone.
 
 You say: I didn't ask you to touch anything else. It says: understood. And then it touches something else.
 
@@ -141,9 +141,9 @@ When the work has to be reproducible, or the cost of getting it wrong is unbeara
 
 "Delete it" looks like it fails the checkable-sentence test, by the way. It doesn't — the folder being gone is done, and the finish line is clear. The only thing unclear is how. That's exactly what this layer governs.
 
-## When you say it matters more than what you say
+## Timing matters more than wording
 
-The first three sections are about what should be in the sentence. The next three aren't more items on that list. They're about something else: when the sentence arrives, what happens when it arrives too late, and how you confirm it actually landed. The first three are about missing information. These three are about information that arrived and still didn't take effect. Without them, the first three won't hold either.
+The first three sections are about what should be in the sentence. The next three are about when it arrives, what happens if it arrives too late, and how you confirm it landed. Missing information is one failure mode; information that arrived and still didn't take effect is another. Without the second set, the first three won't hold.
 
 The same sentence, placed differently, is worth something entirely different.
 
@@ -181,7 +181,7 @@ There are three layers here, in ascending order of reliability.
 
 There's a trap here: **two agreeing results do not make a correct result.** If both runs share the same wrong assumption, or the same bad input, it can be consistently wrong. Conversely, disagreement doesn't prove someone erred — the two runs may have used different definitions.
 
-So this layer has two uses: when they agree, take it as confidence, not proof; when they disagree, use it to narrow the search — find where the two paths first diverged, then inspect the assumptions and evidence behind that divergence. It won't localize the problem for you.
+So this layer has two uses: when they agree, take it as confidence, not proof; when they disagree, use it to narrow the search — find where the two paths first diverged, then inspect the assumptions and evidence behind that divergence. That tells you where the two paths diverged; why they diverged is still yours to find.
 
 **Three: deterministic checks.** Nothing that depends on its reporting — does the file exist, is the count right, are the key fields present, do the checksums match. This is the only layer that counts as evidence.
 
@@ -203,7 +203,7 @@ So what do you do if you won't remember? Mine is to compress it to one line: **s
 
 That line is a memory aid, not a rulebook. It misses two cases: things that can be undone but are expensive (rerunning a three-hour training job), and money, privacy, and anything that goes out into the world — those deserve a question even when they're reversible.
 
-This piece itself — the version you're reading is the twelfth draft. Every one of the previous eleven was sent back, for different reasons each time: too much like a manual, too much like an essay, too much like me giving a speech, conclusions harder than the evidence. I've reworked it as many times as anyone would have.
+This piece is on its twelfth draft. Every one of the previous eleven was sent back, for different reasons each time: too much like a manual, too much like an essay, too much like me giving a speech, conclusions harder than the evidence. I've reworked it as many times as anyone would have.
 
 So the rest you'll have to walk into yourself. When you do, remember at least this one: if it can't be undone, stop first.
 
